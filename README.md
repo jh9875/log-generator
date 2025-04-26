@@ -17,4 +17,4 @@ This project generates test logs using an OpenAPI-powered application.
 - Spring Boot 3.x
 
 ## License
-This project is licensed under the MIT License.
+
